@@ -117,6 +117,7 @@ a {
   border-radius: 25px;
   left: calc(50% - calc(2.5vw + 0.5rem));
   position: absolute;
+  margin-bottom: 5px;
 }
 
 /* navbar */
