@@ -15,11 +15,11 @@ h3 {
 }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Cinzel', serif;
 }
 
 h3 {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 a {
@@ -64,6 +64,10 @@ a {
   color: #45b8e6;
 }
 
+.gold {
+  color: #E69945;
+}
+
 .t-hover:hover {
   color: #45b8e6 !important;
 }
@@ -80,6 +84,7 @@ a {
 }
 
 .base-text {
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
 }
