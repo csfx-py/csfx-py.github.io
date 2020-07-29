@@ -23,5 +23,5 @@ particlesJS.load("particle-class", "assets/particlesjs-config.json", function ()
     index = 0;
   }
 
-  setTimeout(type, 300);
+  setTimeout(type, 150);
 })();
